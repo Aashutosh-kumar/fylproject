@@ -233,7 +233,7 @@ tqdm==4.61.0
 traitlets==5.0.5
 ujson==4.0.2
 unicodecsv==0.14.1
-urllib3==1.26.8
+
 vboxapi==1.0
 virtualenv==20.4.7
 watchdog==2.1.2
